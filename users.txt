@@ -1,0 +1,7 @@
+Paul:x:1017:1022::/home/Paul:/bin/bash
+serge:x:1018:1023::/home/serge:/bin/bash
+Owen:x:1019:1024::/home/Owen:/bin/bash
+Amara:x:1020:1025::/home/Amara:/bin/bash
+Gabrielle:x:1021:1021::/home/Gabrielle:/bin/bash
+Amara:x:1020:1025::/home/Amara:/bin/bash
+Gabrielle:x:1021:1021::/home/Gabrielle:/bin/bash
