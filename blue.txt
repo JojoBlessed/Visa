@@ -1,1 +1,7 @@
 # visa
+red 
+grey 
+orange
+computer 
+lab
+table
