@@ -341,3 +341,121 @@ xcode-select --install
 exit
 brew install git
 exit 
+ls
+git
+git status
+git init
+git branch development
+git checkout master 
+git remote add payapal https://github.com/JojoBlessed/Paypal
+git checkout master
+git switch master
+git switch development
+git remove -v
+git remote -v
+ls
+touch apple
+ls
+echo "God is good" >> apple
+ls 
+cat apple
+vi apple
+git add .
+git status
+git add apple
+git status
+git commit -m "second try"
+git config --global user.name "jojobaby2727@gmail.com"
+git config -- global user.name "JojoJ27
+git config -- global user.name "JojoJ27"
+git config --global user.name "JojoJ27"
+git config --global email.name "jojobaby2727@gmail.com"
+git rm --cached <file>
+cd apple
+mkdir
+mkdir fruits
+cd fruits
+ls
+mv apple >> fruits
+touch mango > apple
+ls
+cat fruits
+cat mango
+cat apple
+rm apple
+ls
+rm fruits
+ls
+echo "God is good"
+cat mango
+echo "God is good" >> mango 
+echo "Blessed" >> mango
+cat mango
+git commit -m "trying again"
+git config --global user.name "JojoJ27
+git config --global user.name "JojoJ27"
+git config --global user.email "jojobaby2727@gmail.com"
+git commit -m "trying again"
+git add mango
+git log
+cat mango
+echo Favour >> mango
+git status
+git push paypal development
+git push paypal master
+git remote -v
+git remote add paypal https://github.com/JojoBlessed/Paypal
+git push paypal master
+git push --help
+git pull mango
+git add mango
+git status
+git pull list
+git pull paypal
+ls paypal
+cd paypal
+cd
+cd paypal
+ls
+echo "# visa" >> blue.txt
+cat blue.txt
+vi blue
+git add blue.txt
+ls blue.txt
+cat blue.txt
+vi blue.txt
+cat blue.txt
+git log
+git commit -m "my first commit"
+vi blue.txt
+git log
+git status
+git add blue.txt
+git status
+git branch -M main 
+git branch
+git branch -M testing
+git branch 
+git switch master
+git commit -m 
+git commit -a -m "modified"
+git remote add origin git@github.com:JojoBlessed/visa.git
+git push -u origin main
+git push git remote add visa https://github.com/JojoBlessed/visa
+git remote -v
+git remote add paypal https://github.com/JojoBlessed/visa
+git remote add origin https://github.com/JojoBlessed/visa
+git push visa https://github.com/JojoBlessed/visa
+git push visa master
+git push paypal master
+git push origin testing
+git push paypal testing
+git pull paypal
+git pull paypal testing
+ls
+git status
+git log
+cat deployment
+cat deploy.sh
+git remote -v
+exit

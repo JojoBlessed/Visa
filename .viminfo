@@ -61,38 +61,182 @@
 |3,0,36,0,1,0,1684817129,"i"
 
 # File marks:
-'0  7  4  ~/blue.txt
-|4,48,7,4,1685376469,"~/blue.txt"
-'1  4  5  ~/blue.txt
-|4,49,4,5,1685376400,"~/blue.txt"
-'2  4  5  ~/blue.txt
-|4,50,4,5,1685376400,"~/blue.txt"
-'3  4  0  ~/blue
-|4,51,4,0,1685376338,"~/blue"
-'4  3  5  ~/apple
-|4,52,3,5,1685374703,"~/apple"
-'5  1  32  ~/monitor.sh
-|4,53,1,32,1684990038,"~/monitor.sh"
-'6  1  0  /home/ec2-user/sudo
-|4,54,1,0,1684989465,"/home/ec2-user/sudo"
-'7  1  0  /home/ec2-user/sudo
-|4,55,1,0,1684989442,"/home/ec2-user/sudo"
-'8  1  3  ~/sudo
-|4,56,1,3,1684989395,"~/sudo"
-'9  14  61  ~/switch-case.sh
-|4,57,14,61,1684985037,"~/switch-case.sh"
+'0  7  6  ~/cars/newcars
+|4,48,7,6,1685379399,"~/cars/newcars"
+'1  5  6  ~/cars/newcars
+|4,49,5,6,1685379284,"~/cars/newcars"
+'2  5  6  ~/cars/newcars
+|4,50,5,6,1685379284,"~/cars/newcars"
+'3  4  0  ~/cars/newcars
+|4,51,4,0,1685379209,"~/cars/newcars"
+'4  4  0  ~/cars/newcars
+|4,52,4,0,1685379209,"~/cars/newcars"
+'5  4  0  ~/cars/newcars
+|4,53,4,0,1685379209,"~/cars/newcars"
+'6  4  0  ~/cars/newcars
+|4,54,4,0,1685379209,"~/cars/newcars"
+'7  7  4  ~/blue.txt
+|4,55,7,4,1685376469,"~/blue.txt"
+'8  4  5  ~/blue.txt
+|4,56,4,5,1685376400,"~/blue.txt"
+'9  4  5  ~/blue.txt
+|4,57,4,5,1685376400,"~/blue.txt"
 
 # Jumplist (newest first):
+-'  7  6  ~/cars/newcars
+|4,39,7,6,1685379399,"~/cars/newcars"
+-'  5  6  ~/cars/newcars
+|4,39,5,6,1685379366,"~/cars/newcars"
+-'  5  6  ~/cars/newcars
+|4,39,5,6,1685379284,"~/cars/newcars"
+-'  4  0  ~/cars/newcars
+|4,39,4,0,1685379272,"~/cars/newcars"
+-'  4  0  ~/cars/newcars
+|4,39,4,0,1685379272,"~/cars/newcars"
+-'  4  0  ~/cars/newcars
+|4,39,4,0,1685379209,"~/cars/newcars"
+-'  1  0  ~/cars/newcars
+|4,39,1,0,1685379193,"~/cars/newcars"
+-'  1  0  ~/cars/newcars
+|4,39,1,0,1685379193,"~/cars/newcars"
+-'  1  0  ~/cars/newcars
+|4,39,1,0,1685379193,"~/cars/newcars"
+-'  7  4  ~/blue.txt
+|4,39,7,4,1685376469,"~/blue.txt"
+-'  7  4  ~/blue.txt
+|4,39,7,4,1685376469,"~/blue.txt"
+-'  7  4  ~/blue.txt
+|4,39,7,4,1685376469,"~/blue.txt"
+-'  7  4  ~/blue.txt
+|4,39,7,4,1685376469,"~/blue.txt"
+-'  7  4  ~/blue.txt
+|4,39,7,4,1685376469,"~/blue.txt"
+-'  7  4  ~/blue.txt
+|4,39,7,4,1685376469,"~/blue.txt"
+-'  7  4  ~/blue.txt
+|4,39,7,4,1685376469,"~/blue.txt"
 -'  7  4  ~/blue.txt
 |4,39,7,4,1685376469,"~/blue.txt"
 -'  4  5  ~/blue.txt
 |4,39,4,5,1685376454,"~/blue.txt"
+-'  4  5  ~/blue.txt
+|4,39,4,5,1685376454,"~/blue.txt"
+-'  4  5  ~/blue.txt
+|4,39,4,5,1685376454,"~/blue.txt"
+-'  4  5  ~/blue.txt
+|4,39,4,5,1685376454,"~/blue.txt"
+-'  4  5  ~/blue.txt
+|4,39,4,5,1685376454,"~/blue.txt"
+-'  4  5  ~/blue.txt
+|4,39,4,5,1685376454,"~/blue.txt"
+-'  4  5  ~/blue.txt
+|4,39,4,5,1685376454,"~/blue.txt"
+-'  4  5  ~/blue.txt
+|4,39,4,5,1685376454,"~/blue.txt"
+-'  4  5  ~/blue.txt
+|4,39,4,5,1685376400,"~/blue.txt"
+-'  4  5  ~/blue.txt
+|4,39,4,5,1685376400,"~/blue.txt"
+-'  4  5  ~/blue.txt
+|4,39,4,5,1685376400,"~/blue.txt"
+-'  4  5  ~/blue.txt
+|4,39,4,5,1685376400,"~/blue.txt"
+-'  4  5  ~/blue.txt
+|4,39,4,5,1685376400,"~/blue.txt"
+-'  4  5  ~/blue.txt
+|4,39,4,5,1685376400,"~/blue.txt"
+-'  4  5  ~/blue.txt
+|4,39,4,5,1685376400,"~/blue.txt"
 -'  4  5  ~/blue.txt
 |4,39,4,5,1685376400,"~/blue.txt"
 -'  1  0  ~/blue.txt
 |4,39,1,0,1685376378,"~/blue.txt"
 -'  1  0  ~/blue.txt
 |4,39,1,0,1685376378,"~/blue.txt"
+-'  1  0  ~/blue.txt
+|4,39,1,0,1685376378,"~/blue.txt"
+-'  1  0  ~/blue.txt
+|4,39,1,0,1685376378,"~/blue.txt"
+-'  1  0  ~/blue.txt
+|4,39,1,0,1685376378,"~/blue.txt"
+-'  1  0  ~/blue.txt
+|4,39,1,0,1685376378,"~/blue.txt"
+-'  1  0  ~/blue.txt
+|4,39,1,0,1685376378,"~/blue.txt"
+-'  1  0  ~/blue.txt
+|4,39,1,0,1685376378,"~/blue.txt"
+-'  1  0  ~/blue.txt
+|4,39,1,0,1685376378,"~/blue.txt"
+-'  1  0  ~/blue.txt
+|4,39,1,0,1685376378,"~/blue.txt"
+-'  1  0  ~/blue.txt
+|4,39,1,0,1685376378,"~/blue.txt"
+-'  1  0  ~/blue.txt
+|4,39,1,0,1685376378,"~/blue.txt"
+-'  1  0  ~/blue.txt
+|4,39,1,0,1685376378,"~/blue.txt"
+-'  1  0  ~/blue.txt
+|4,39,1,0,1685376378,"~/blue.txt"
+-'  1  0  ~/blue.txt
+|4,39,1,0,1685376378,"~/blue.txt"
+-'  1  0  ~/blue.txt
+|4,39,1,0,1685376378,"~/blue.txt"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
+-'  4  0  ~/blue
+|4,39,4,0,1685376338,"~/blue"
 -'  4  0  ~/blue
 |4,39,4,0,1685376338,"~/blue"
 -'  4  0  ~/blue
@@ -109,182 +253,48 @@
 |4,39,1,0,1685376322,"~/blue"
 -'  1  0  ~/blue
 |4,39,1,0,1685376322,"~/blue"
--'  3  5  ~/apple
-|4,39,3,5,1685374703,"~/apple"
--'  3  5  ~/apple
-|4,39,3,5,1685374703,"~/apple"
--'  3  5  ~/apple
-|4,39,3,5,1685374703,"~/apple"
--'  3  5  ~/apple
-|4,39,3,5,1685374703,"~/apple"
--'  3  5  ~/apple
-|4,39,3,5,1685374703,"~/apple"
--'  3  5  ~/apple
-|4,39,3,5,1685374703,"~/apple"
--'  3  5  ~/apple
-|4,39,3,5,1685374703,"~/apple"
--'  3  5  ~/apple
-|4,39,3,5,1685374703,"~/apple"
--'  1  0  ~/apple
-|4,39,1,0,1685374689,"~/apple"
--'  1  0  ~/apple
-|4,39,1,0,1685374689,"~/apple"
--'  1  0  ~/apple
-|4,39,1,0,1685374689,"~/apple"
--'  1  0  ~/apple
-|4,39,1,0,1685374689,"~/apple"
--'  1  0  ~/apple
-|4,39,1,0,1685374689,"~/apple"
--'  1  0  ~/apple
-|4,39,1,0,1685374689,"~/apple"
--'  1  0  ~/apple
-|4,39,1,0,1685374689,"~/apple"
--'  1  0  ~/apple
-|4,39,1,0,1685374689,"~/apple"
--'  1  32  ~/monitor.sh
-|4,39,1,32,1684990038,"~/monitor.sh"
--'  1  32  ~/monitor.sh
-|4,39,1,32,1684990038,"~/monitor.sh"
--'  1  32  ~/monitor.sh
-|4,39,1,32,1684990038,"~/monitor.sh"
--'  1  32  ~/monitor.sh
-|4,39,1,32,1684990038,"~/monitor.sh"
--'  1  32  ~/monitor.sh
-|4,39,1,32,1684990038,"~/monitor.sh"
--'  1  32  ~/monitor.sh
-|4,39,1,32,1684990038,"~/monitor.sh"
--'  1  32  ~/monitor.sh
-|4,39,1,32,1684990038,"~/monitor.sh"
--'  1  32  ~/monitor.sh
-|4,39,1,32,1684990038,"~/monitor.sh"
--'  1  32  ~/monitor.sh
-|4,39,1,32,1684990038,"~/monitor.sh"
--'  1  32  ~/monitor.sh
-|4,39,1,32,1684990038,"~/monitor.sh"
--'  1  32  ~/monitor.sh
-|4,39,1,32,1684990038,"~/monitor.sh"
--'  1  32  ~/monitor.sh
-|4,39,1,32,1684990038,"~/monitor.sh"
--'  1  32  ~/monitor.sh
-|4,39,1,32,1684990038,"~/monitor.sh"
--'  1  32  ~/monitor.sh
-|4,39,1,32,1684990038,"~/monitor.sh"
--'  1  32  ~/monitor.sh
-|4,39,1,32,1684990038,"~/monitor.sh"
--'  1  32  ~/monitor.sh
-|4,39,1,32,1684990038,"~/monitor.sh"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989465,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
--'  1  0  /home/ec2-user/sudo
-|4,39,1,0,1684989442,"/home/ec2-user/sudo"
+-'  1  0  ~/blue
+|4,39,1,0,1685376322,"~/blue"
+-'  1  0  ~/blue
+|4,39,1,0,1685376322,"~/blue"
+-'  1  0  ~/blue
+|4,39,1,0,1685376322,"~/blue"
+-'  1  0  ~/blue
+|4,39,1,0,1685376322,"~/blue"
+-'  1  0  ~/blue
+|4,39,1,0,1685376322,"~/blue"
+-'  1  0  ~/blue
+|4,39,1,0,1685376322,"~/blue"
+-'  1  0  ~/blue
+|4,39,1,0,1685376322,"~/blue"
+-'  1  0  ~/blue
+|4,39,1,0,1685376322,"~/blue"
+-'  1  0  ~/blue
+|4,39,1,0,1685376322,"~/blue"
+-'  1  0  ~/blue
+|4,39,1,0,1685376322,"~/blue"
+-'  1  0  ~/blue
+|4,39,1,0,1685376322,"~/blue"
+-'  1  0  ~/blue
+|4,39,1,0,1685376322,"~/blue"
+-'  1  0  ~/blue
+|4,39,1,0,1685376322,"~/blue"
+-'  1  0  ~/blue
+|4,39,1,0,1685376322,"~/blue"
+-'  1  0  ~/blue
+|4,39,1,0,1685376322,"~/blue"
 
 # History of marks within files (newest to oldest):
+
+> ~/cars/newcars
+	*	1685379398	0
+	"	7	6
+	^	7	7
+	.	7	6
+	+	3	12
+	+	5	6
+	+	8	0
+	+	7	6
 
 > ~/blue.txt
 	*	1685376469	0
@@ -479,21 +489,3 @@
 	+	1	43
 	+	3	22
 	+	8	1
-
-> ~/index.html
-	*	1684859063	0
-	"	2	0
-	.	3	0
-	+	1	56
-	+	1	82
-	+	1	83
-	+	3	29
-	+	1	58
-	+	3	31
-	+	1	57
-	+	1	28
-	+	1	27
-	+	2	19
-	+	1	34
-	+	2	29
-	+	3	0
