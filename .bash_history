@@ -459,3 +459,7 @@ cat deployment
 cat deploy.sh
 git remote -v
 exit
+clear
+ls
+sudo su - 
+exit
