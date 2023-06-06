@@ -463,3 +463,88 @@ clear
 ls
 sudo su - 
 exit
+ls
+ls /home
+cd visa
+ls
+cd newcars
+ls
+clear
+ll
+clear
+git init
+ls
+cd visa
+git status
+grep newcars *
+ls cars
+cd cars
+ls
+ll
+git remote -v
+ls
+ls newcars
+vi newcars
+git remote rm paypal
+git remote -v
+git remote rm payapal
+git remote -v
+git status
+ls 
+touch table
+git status
+cat table
+echo "Adding a furniture list here" >> table
+git status
+git add *
+git status
+echo "new furniture list ammended" >> table
+git status
+cat table
+git branch
+git branch development
+git switch testing
+git branch
+git switch testing
+git commit -a -m "ammended list"
+git switch testing
+git branch
+git diff development master
+git merge master 
+git log
+git status 
+git status
+git log
+clear
+git remote -v
+git push visa -all
+git push visa --all
+sudo su - amaka
+exit
+ls
+sh ypl2.sh
+vi ypl2.sh
+sh ypl2.sh
+sh ypl4.sh
+vi ypl4.sh
+vi ypl2.sh
+sh fl.sh
+vi fl.sh
+ls
+vi flpp.sh
+sh flpp.sh
+vi flpp.sh
+sh flpp.sh
+vi flpp.sh
+sh flpp.sh
+vi flpp.sh
+sh flpp.sh
+vi flpp.sh
+sh flpp.sh
+vi flpp.sh
+sh flpp.sh
+vi flpp.sh
+sh flpp.sh
+vi flpp.sh
+sh flpp.sh
+vi flpp.sh
