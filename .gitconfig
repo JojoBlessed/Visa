@@ -1,0 +1,15 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = JojoJ27
+	email = jojobaby2727@gmail.com
+	signingkey = 7BF8FC353377F3FD
+[color]
+	ui = true
+[commit]
+	gpgsign = true
+[commit]
+	template = /Users/Jojo/.gitmessage
